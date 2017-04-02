@@ -16,4 +16,4 @@ movies = [toy_Story, avatar]
 
 #fresh_tomatoes.open_movies_page(movies)
 
-print(media.Movie.valid_ratings)
+print(media.Movie.VALID_RATINGS)
